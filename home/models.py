@@ -12,7 +12,8 @@ SELECT_CATEGORY_CHOICES = [
 ("Shopping","Shopping"),
 ("Necessities","Necessities"),
 ("Entertainment","Entertainment"),
-("Other","Other")
+("Other","Other"),
+("Salary","Salary")
 ]
 
 ADD_EXPENSE_CHOICES = [
